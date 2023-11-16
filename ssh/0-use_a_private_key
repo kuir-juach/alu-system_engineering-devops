@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
+# The script that use the private
 ubuntu@server01:~$ exit
 Connection to 8.8.8.8 closed.
