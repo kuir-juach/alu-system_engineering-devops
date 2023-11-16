@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+ubuntu@server01:~$ exit
+Connection to 8.8.8.8 closed.
